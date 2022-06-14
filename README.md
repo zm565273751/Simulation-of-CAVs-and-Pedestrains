@@ -4,9 +4,10 @@ Process to run the virtual reality simulation:
 
 Make sure that the Simulation computer (Simulink and Unity3D run in this computer) and Oculus Quest are under the same network.
 
-Set the following IP
+Set the following IP:
+
 Computer (server only): 192.168.0.101
-     Oculus Quest(client): 192.168.0.104
+  Oculus Quest(client): 192.168.0.104
 
 MATLAB R2020b or higher.
 Load Simulink Data and Model in a project: VRSimulationModel, VRSimulationModelData.
