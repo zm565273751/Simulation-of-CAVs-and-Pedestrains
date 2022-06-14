@@ -10,7 +10,7 @@ Computer (server only): 192.168.0.101
   Oculus Quest(client): 192.168.0.104
 
 MATLAB R2020b or higher.
-Load Simulink Data and Model in a project: VRSimulationModel, VRSimulationModelData.
+Load Simulink Data (VRSimulationModelData) and Model (VRSimulationModel) in a matlab working space.
 
 
 Operation order:
