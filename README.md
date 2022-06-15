@@ -1,5 +1,7 @@
 # Simulation-of-CAVs-and-Pedestrains
 
+The file Video.mp4 shows us an example of VR simulation.
+
 Process to run the virtual reality simulation:
 
 Make sure that the Simulation computer (Simulink and Unity3D run in this computer) and Oculus Quest are under the same network.
@@ -22,4 +24,4 @@ Operation order:
 04. Set in simulink model, (pedestrian weight, CAVs initial position)
 05. Start simulink model in real-time mode.
 
-After that we can see the simulation in Oculus Quest.
+After that we can see the simulation in Oculus Quest. 
